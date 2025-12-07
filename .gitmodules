@@ -1,0 +1,8 @@
+[submodule "AFL-PPO"]
+	path = AFL-PPO
+	url = https://github.com/jinjinzara16/AFL-RL-project.git
+	branch = dev2
+[submodule "AFL"]
+	path = AFL
+	url = https://github.com/jinjinzara16/AFL-RL-project.git
+	branch = master

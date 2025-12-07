@@ -1,0 +1,5 @@
+*.swp
+*.swo
+output/
+__pycache__
+.vscode/
